@@ -24,7 +24,7 @@ A comprehensive AI-powered system to assess the impact of geopolitics, news, and
 
 ### 1. Install Ollama
 
-Download and install Ollama from [https://ollama.ai/](https://ollama.ai/)
+Download and install Ollama  from [https://ollama.ai/](https://ollama.ai/)
 
 Pull a model (recommended: llama3.2, mistral, or phi3):
 ```bash
